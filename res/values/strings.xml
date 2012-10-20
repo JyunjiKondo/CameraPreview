@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">CameraPreview</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string-array name="fragment_list">
+        <item>CameraPreview</item>
+        <item>AdjustedOrientation</item>
+        <item>AdjustedAspectRatio</item>
+        <item>Compass</item>
+        <item>AdjustedCoordinate</item>
+        <item>CompassUsingRotationVector</item>
+    </string-array>
+    
+</resources>
